@@ -1,3 +1,3 @@
 # SUKCR
 
-Run localhost/BS3/
+SUK Car Rental
